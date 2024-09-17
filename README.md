@@ -1,2 +1,1 @@
-# About
-Advespace it's..
+It's an open source Android game about space 🌌
